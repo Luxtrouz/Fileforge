@@ -1,0 +1,11 @@
+Rocket Icon Attribution
+
+Icon Name: Rocket Icon
+Author: Bokehlicia
+Source: https://www.iconarchive.com/show/captiva-icons-by-bokehlicia/rocket-icon.html
+License: GNU General Public License v3.0 (GPL-3.0)
+
+This icon is licensed under the GPL-3.0 license. You can find the full license text here:
+https://www.gnu.org/licenses/gpl-3.0.html
+
+This file serves to acknowledge the source and license of the icon used in this application.
